@@ -15,8 +15,8 @@ body {
 .content {
     background-color: black;
     background-image: url('../img/wlpp2.jpg');
-    background-position: 50% 31vh;
-    background-repeat: repeat-y;
+    background-position: 50% 300px;
+    background-repeat: repeat;
 }
 
 .titulo {
