@@ -4,7 +4,7 @@
 
 <a href="ericmiranda27.github.io/sobre-mim">🔗 Clique aqui para acessar</a>
 
-##Tecnologias
+## 🛠 Tecnologias
 
 <ul>
     <li>HTML</li>
