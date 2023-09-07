@@ -15,10 +15,9 @@ body {
 
 .content {
     background-color: black;
-    background-image: url('../img/download.jpeg');
-    background-position: 50% 15vh;
+    background-image: url('../img/wlpp2.jpg');
+    background-position: 50% 31vh;
     background-repeat: repeat-y;
-    background-attachment: fixed;
 }
 
 .titulo {
@@ -99,19 +98,19 @@ abbr {
 .html {
     font-family: 'Courier New', Courier, monospace;
     color: #E54C21;
-    text-shadow: 2px 2px 2px rgba(229, 75, 33, 0.5);
+    text-shadow: 2px 2px 2px rgba(229, 75, 33, 0.6);
 }
 
 .css {
     font-family: 'Courier New', Courier, monospace;
     color: #214CE5;
-    text-shadow: 2px 2px 2px rgba(33, 75, 229, 0.5);
+    text-shadow: 2px 2px 2px rgba(33, 75, 229, 0.6);
 }
 
 .js {
     font-family: 'Courier New', Courier, monospace;
     color: #F7E018;
-    text-shadow: 2px 2px 2px rgba(247, 225, 24, 0.5);
+    text-shadow: 2px 2px 2px rgba(247, 225, 24, 0.6);
 }
 
 footer {
@@ -182,4 +181,14 @@ a:active {
 
 .pos-link:active {
     color: black;
+}
+
+#creditos {
+    color: rgba(33, 47, 90, 0.9);
+    font-size: 0.8em;
+    text-align: center;
+}
+
+#nome-credito {
+    color: rgba(0, 255, 0, 0.2);
 }
