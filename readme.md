@@ -1,8 +1,8 @@
 # Sobre mim
 
-<img src='img/site-img.jpg'>
+![preview](img/site-img.jpg)
 
-<a href="ericmiranda27.github.io/sobre-mim">🔗 Clique aqui para acessar</a>
+[🔗 Clique aqui para acessar](ericmiranda27.github.io/sobre-mim)
 
 ## 🛠 Tecnologias
 
