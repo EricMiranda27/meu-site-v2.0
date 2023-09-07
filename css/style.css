@@ -58,7 +58,7 @@ main>h2 {
     transition: transform 0.3s ease, border-radius 0.3s ease;
 }
 
-.minha-foto:hover {
+.animacao-foto {
     transform: scale(2);
     border-radius: 50%;
     animation: girar-aumentar 0.5s linear forwards;
